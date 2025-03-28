@@ -1,0 +1,4 @@
+skahfki*.log
+dir/
+static/dir
+ffjhfhla
